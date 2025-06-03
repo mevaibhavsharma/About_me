@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
+<h1 align="center">Hi, I'm Vaibhav Sharma</h1>
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Tableau</h3>
 
 ---
