@@ -43,9 +43,8 @@ I’m a **final-year B.Tech student at Delhi Technological University** (DTU), d
 
 - 📧 Email: 7workvaibhav@gmail.com
 - 🔗 LinkedIn: (https://www.linkedin.com/in/vaibhav-sharma-3a93181b7/)
- 
-- 💻 [GitHub](https://github.com/yourusername)  
+- 💻 [GitHub](https://github.com/mevaibhavsharma)  
 
 ---
 
-_Thanks for visiting! If you like what you see or want to collaborate, feel free to connect or drop a message 😊_
+_Thanks for visiting! If you like what you see or want to collaborate, feel free to connect or drop a message_
